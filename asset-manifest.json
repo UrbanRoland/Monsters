@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/UrbanRoland/Monsters/monsters/static/css/main.8981fae1.chunk.css",
+    "main.js": "/UrbanRoland/Monsters/monsters/static/js/main.ad57079f.chunk.js",
+    "main.js.map": "/UrbanRoland/Monsters/monsters/static/js/main.ad57079f.chunk.js.map",
+    "runtime-main.js": "/UrbanRoland/Monsters/monsters/static/js/runtime-main.e35019ce.js",
+    "runtime-main.js.map": "/UrbanRoland/Monsters/monsters/static/js/runtime-main.e35019ce.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/UrbanRoland/Monsters/monsters/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d7c29768.chunk.js": "/UrbanRoland/Monsters/monsters/static/js/2.d7c29768.chunk.js",
+    "static/js/2.d7c29768.chunk.js.map": "/UrbanRoland/Monsters/monsters/static/js/2.d7c29768.chunk.js.map",
+    "index.html": "/UrbanRoland/Monsters/monsters/index.html",
+    "precache-manifest.c018ae99a6afc0977faaee3011c30edd.js": "/UrbanRoland/Monsters/monsters/precache-manifest.c018ae99a6afc0977faaee3011c30edd.js",
+    "service-worker.js": "/UrbanRoland/Monsters/monsters/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/UrbanRoland/Monsters/monsters/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.8981fae1.chunk.css.map": "/UrbanRoland/Monsters/monsters/static/css/main.8981fae1.chunk.css.map",
+    "static/js/2.d7c29768.chunk.js.LICENSE.txt": "/UrbanRoland/Monsters/monsters/static/js/2.d7c29768.chunk.js.LICENSE.txt",
+    "static/media/air.svg": "/UrbanRoland/Monsters/monsters/static/media/air.cbec451b.svg",
+    "static/media/arrow-left.svg": "/UrbanRoland/Monsters/monsters/static/media/arrow-left.5f142128.svg",
+    "static/media/arrow-right.svg": "/UrbanRoland/Monsters/monsters/static/media/arrow-right.de862de4.svg",
+    "static/media/earth.svg": "/UrbanRoland/Monsters/monsters/static/media/earth.6388a1c2.svg",
+    "static/media/fire.svg": "/UrbanRoland/Monsters/monsters/static/media/fire.3ae90b92.svg",
+    "static/media/logo.svg": "/UrbanRoland/Monsters/monsters/static/media/logo.9a5e9524.svg",
+    "static/media/water.svg": "/UrbanRoland/Monsters/monsters/static/media/water.358472ea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e35019ce.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d7c29768.chunk.js",
+    "static/css/main.8981fae1.chunk.css",
+    "static/js/main.ad57079f.chunk.js"
+  ]
+}
