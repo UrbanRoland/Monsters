@@ -1,0 +1,21 @@
+#elemental {
+  width: 3%;
+  position: absolute;
+}
+#left {
+  width: 3%;
+  position: absolute;
+}
+#right {
+  width: 3%;
+  position: absolute;
+}
+table {
+  width: 13%;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  cursor: pointer;
+  border: none;
+}
