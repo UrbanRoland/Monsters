@@ -1,32 +1,35 @@
 {
   "files": {
-    "main.css": "/Monsters/monsters/static/css/main.8981fae1.chunk.css",
-    "main.js": "/Monsters/monsters/static/js/main.ad57079f.chunk.js",
-    "main.js.map": "/Monsters/monsters/static/js/main.ad57079f.chunk.js.map",
+    "main.css": "/Monsters/monsters/static/css/main.cec99310.chunk.css",
+    "main.js": "/Monsters/monsters/static/js/main.f0768d48.chunk.js",
+    "main.js.map": "/Monsters/monsters/static/js/main.f0768d48.chunk.js.map",
     "runtime-main.js": "/Monsters/monsters/static/js/runtime-main.239ecaef.js",
     "runtime-main.js.map": "/Monsters/monsters/static/js/runtime-main.239ecaef.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Monsters/monsters/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d7c29768.chunk.js": "/Monsters/monsters/static/js/2.d7c29768.chunk.js",
-    "static/js/2.d7c29768.chunk.js.map": "/Monsters/monsters/static/js/2.d7c29768.chunk.js.map",
+    "static/js/2.729c9cc1.chunk.js": "/Monsters/monsters/static/js/2.729c9cc1.chunk.js",
+    "static/js/2.729c9cc1.chunk.js.map": "/Monsters/monsters/static/js/2.729c9cc1.chunk.js.map",
     "index.html": "/Monsters/monsters/index.html",
-    "precache-manifest.85614de3aad948eaba0be06e96468466.js": "/Monsters/monsters/precache-manifest.85614de3aad948eaba0be06e96468466.js",
+    "precache-manifest.61ea6a1a482ced4411c98dceab249eb1.js": "/Monsters/monsters/precache-manifest.61ea6a1a482ced4411c98dceab249eb1.js",
     "service-worker.js": "/Monsters/monsters/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Monsters/monsters/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.8981fae1.chunk.css.map": "/Monsters/monsters/static/css/main.8981fae1.chunk.css.map",
-    "static/js/2.d7c29768.chunk.js.LICENSE.txt": "/Monsters/monsters/static/js/2.d7c29768.chunk.js.LICENSE.txt",
+    "static/css/main.cec99310.chunk.css.map": "/Monsters/monsters/static/css/main.cec99310.chunk.css.map",
+    "static/js/2.729c9cc1.chunk.js.LICENSE.txt": "/Monsters/monsters/static/js/2.729c9cc1.chunk.js.LICENSE.txt",
     "static/media/air.svg": "/Monsters/monsters/static/media/air.cbec451b.svg",
     "static/media/arrow-left.svg": "/Monsters/monsters/static/media/arrow-left.5f142128.svg",
     "static/media/arrow-right.svg": "/Monsters/monsters/static/media/arrow-right.de862de4.svg",
+    "static/media/attack.svg": "/Monsters/monsters/static/media/attack.00f35d6d.svg",
+    "static/media/defense.svg": "/Monsters/monsters/static/media/defense.33bf631b.svg",
     "static/media/earth.svg": "/Monsters/monsters/static/media/earth.6388a1c2.svg",
     "static/media/fire.svg": "/Monsters/monsters/static/media/fire.3ae90b92.svg",
     "static/media/logo.svg": "/Monsters/monsters/static/media/logo.9a5e9524.svg",
+    "static/media/search.svg": "/Monsters/monsters/static/media/search.c4127766.svg",
     "static/media/water.svg": "/Monsters/monsters/static/media/water.358472ea.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.239ecaef.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.d7c29768.chunk.js",
-    "static/css/main.8981fae1.chunk.css",
-    "static/js/main.ad57079f.chunk.js"
+    "static/js/2.729c9cc1.chunk.js",
+    "static/css/main.cec99310.chunk.css",
+    "static/js/main.f0768d48.chunk.js"
   ]
 }
