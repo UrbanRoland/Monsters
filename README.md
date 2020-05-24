@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## The app is available
+https://priceless-ritchie-8b173c.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
