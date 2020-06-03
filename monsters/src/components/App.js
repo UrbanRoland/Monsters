@@ -10,9 +10,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../css/appStyle.css";
 //import MonstersList from "./MonstersList";
 import monsters from "../data/monsters";
-import fire from "../icons/fire.svg";
 import attack from "../icons/attack.svg";
 import defense from "../icons/defense.svg";
+import trash from "../icons/trash-can.svg";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
@@ -40,17 +40,21 @@ class App extends Component {
       property: data.elements[newIndex],
     });
   };
-
+  deleteMonster() {
+    console.log("asdaasdda");
+  }
   addMonster(e) {
     e.preventDefault();
     const newMonsterName = this.newMonsterName.value;
     const newMonsterAttack = this.newMonsterAttack.value;
     const newMonsterDefense = this.newMonsterDefense.value;
+    const newMonsterElement = this.state.property.image;
+    console.log(newMonsterElement);
     let newMonsters = {
       name: newMonsterName,
       attack: newMonsterAttack,
       defense: newMonsterDefense,
-      elemental: fire,
+      elemental: newMonsterElement,
     };
     this.setState({
       monstersData: [...this.state.monstersData, newMonsters],
@@ -59,17 +63,32 @@ class App extends Component {
   listMonsters = (monster, index) => {
     return (
       <div>
-        <table>
+        <table border="1" className="listMonsters">
           <tbody>
             <tr>
               <td className="elementsImg">
                 <img src={monster.elemental} alt="asd" />
               </td>
-              <td>
+              <td width="200" className="monstersData">
                 <p key={index} className="asd">
-                  {" "}
-                  {monster.name}
+                  <tr> {monster.name}</tr>
+
+                  <img src={attack} alt="attack" className="attackListImg" />
+                  <span className="attackValue"> {monster.attack}</span>
+
+                  <img src={defense} alt="attack" className="defenseListImg" />
+                  <span className="defenseValue"> {monster.defense}</span>
                 </p>
+              </td>
+
+              <td>
+                <button
+                  className="deleteButton"
+                  onClick={() => this.deleteMonster()}
+                >
+                  {" "}
+                  <img src={trash} alt="delete" className="delete" />
+                </button>
               </td>
             </tr>
           </tbody>

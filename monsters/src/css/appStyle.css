@@ -86,5 +86,29 @@ h6 {
   margin-left: 473px;
 }
 .elementsImg {
-  width: 45px;
+  width: 65px;
+}
+.delete {
+  width: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.listMonsters {
+  width: 25%;
+}
+.attackListImg {
+  width: 20px;
+}
+.defenseListImg {
+  width: 20px;
+}
+.attackValue {
+  padding-right: 10px;
+}
+.defenseValue {
+  padding-right: 10px;
+}
+.monstersData {
+  padding: 10px;
 }
